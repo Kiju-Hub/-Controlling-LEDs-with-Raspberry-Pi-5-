@@ -53,7 +53,7 @@ Count: 7 → LED 상태: ON ON ON
 - 공통 GND는 라즈베리파이의 **GND 핀**  
 
 📸 **![image](https://github.com/user-attachments/assets/a3ee14e2-00fb-4a51-bd81-8fb8d52e6c55)**
-
+❗( GPIO PIN 22번 LED핀, 저항, GND연결은 무시하셔도 좋습니다.)
 
 ---
 
