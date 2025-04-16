@@ -55,7 +55,7 @@ Python(`gpiozero` 라이브러리)를 활용하여 Raspberry Pi의 GPIO 핀에 �
 - 각 LED는 **330Ω 저항**과 함께 직렬 연결
 - 공통 GND는 라즈베리파이의 **GND 핀**에 연결
 
-📸 **[C:\Users\qkrrl\OneDrive\바탕 화면\11.png]**
+📸 **![image](https://github.com/user-attachments/assets/a3ee14e2-00fb-4a51-bd81-8fb8d52e6c55)** 
 
 ---
 
