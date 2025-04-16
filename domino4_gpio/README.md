@@ -7,7 +7,7 @@ Python(`gpiozero` 라이브러리)를 활용하여 Raspberry Pi의 GPIO 핀에 �
 
 
 ## 🔴 시연 동영상  
-> (https://youtube.com/shorts/bE27yohYqBE?feature=share)
+> [(https://youtube.com/shorts/bE27yohYqBE?feature=share)](https://youtube.com/shorts/8SfNXPxhs5o?feature=share)
 
 ---
 
