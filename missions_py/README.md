@@ -3,7 +3,6 @@
 Raspberry Pi의 GPIO 핀을 활용해
 스위치 입력에 따라 LED를 제어하는 실습 프로젝트입니다.
 총 4개의 미션으로 구성되어 있으며, 단계별로 기능이 점차 확장됩니다.
-C:\Users\qkrrl\OneDrive\바탕 화면\2222.png
 
 
 ---
