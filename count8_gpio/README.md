@@ -6,7 +6,7 @@ Raspberry Pi의 GPIO 핀에 연결된 LED 3개를 사용해 **0부터 7까지 �
 ---
 
 ## 🔴 시연 동영상  
-> (https://youtube.com/shorts/bE27yohYqBE?feature=share)
+> [(https://youtube.com/shorts/bE27yohYqBE?feature=share)](https://youtube.com/shorts/yHbeyVZYeAk?feature=share)
 
 ---
 
