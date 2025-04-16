@@ -8,7 +8,7 @@ Raspberry Pi의 GPIO 핀을 활용해
 ---
 
 ## 🔴 시연 동영상
-> (https://youtube.com/shorts/bE27yohYqBE?feature=share)
+> [(https://youtube.com/shorts/bE27yohYqBE?feature=share)](https://youtu.be/LjncgB_Mc9Q)
 
 ---
 ## 📁 미션 구성
@@ -55,7 +55,7 @@ Raspberry Pi의 GPIO 핀을 활용해
 ---
 
 
-## 📘 코드 설명 – mission1.py
+## 📘 코드 간단 설명
 
 Raspberry Pi의 pinctrl 명령어를 사용해,
 **스위치 입력(GPIO 25)** 상태에 따라 **LED 4개(GPIO 8, 7, 16, 20)**를 ON/OFF하는 코드입니다.
